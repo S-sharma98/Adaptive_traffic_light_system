@@ -57,6 +57,10 @@ Placing a Camera on each side of the intersection and Processing the images to g
 3. use cvlib to detect images(yolo weights).
 4. get the count of vehicles using label list.
 
+<img src="file:///C:/Users/cnb/Downloads/yolo%20image.webp"
+     alt="file:///C:/Users/cnb/Downloads/yolo%20image.webp"
+     style="float: left; margin-right: 10px;" />
+
 # How are these Numbers manipulated ??
 
 Once stored in a list the number of cars are manipulated to clear the congestion as soon as possible .
