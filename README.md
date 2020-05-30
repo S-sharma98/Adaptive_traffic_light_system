@@ -57,8 +57,8 @@ Placing a Camera on each side of the intersection and Processing the images to g
 3. use cvlib to detect images(yolo weights).
 4. get the count of vehicles using label list.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2018%2F12%2Fpractical-guide-object-detection-yolo-framewor-python%2F&psig=AOvVaw0RGc6eFoFwZDPZGWSh-Zt_&ust=1590934184574000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD6hu7h2-kCFQAAAAAdAAAAABAM"
-     alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2018%2F12%2Fpractical-guide-object-detection-yolo-framewor-python%2F&psig=AOvVaw0RGc6eFoFwZDPZGWSh-Zt_&ust=1590934184574000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD6hu7h2-kCFQAAAAAdAAAAABAM"
+<img src="https://github.com/vaibhavsethia/Smart-Traffic-Light/blob/master/IMG/imagenew.jpg"
+     alt="https://github.com/vaibhavsethia/Smart-Traffic-Light/blob/master/IMG/imagenew.jpg"
      style="float: left; margin-right: 10px;" />
 
 # How are these Numbers manipulated ??
