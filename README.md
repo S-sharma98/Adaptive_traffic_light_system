@@ -7,9 +7,13 @@
 Traffic congestion lead to disorder on roads. Currently traffic signals have pre defined timers. Our approach is, to control the signals based on real time vehicle density thus saving time, resources and reducing pollution.One of the main reasons behind today’s traffic problem are the techniques that are used for traffic management. It has no emphasis on live traffic scenario, thus leading to inefficient traffic management systems.
 
 If the traffic light timers are showing correct time to regulate the traffic, then the time wasted on unwanted green signals will be saved. Timer for every lane is the simplest way to control traffic. And if those timers are predicting exact time then automatically the system will be more efficient.
+
+
 <img src="https://camo.githubusercontent.com/46eeb2384e8f7e1213475d5b1bfdb2404a2c9d81/68747470733a2f2f7777772e7472616e73706f72746174696f6e2e676f762f73697465732f646f742e676f762f66696c65732f322e6a7067"
      alt="https://camo.githubusercontent.com/46eeb2384e8f7e1213475d5b1bfdb2404a2c9d81/68747470733a2f2f7777772e7472616e73706f72746174696f6e2e676f762f73697465732f646f742e676f762f66696c65732f322e6a7067"
      style="float: left; margin-right: 10px;" />
+
+     
 
 # REQUIREMENTS
 1. **TENSORFLOW**
